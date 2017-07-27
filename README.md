@@ -1,6 +1,5 @@
-# tne-react-workshop
+# Redux Example
 
 
-npm i babel-cli –g 
-
-npm install
+npm install --save react-redux
+npm install --save redux
